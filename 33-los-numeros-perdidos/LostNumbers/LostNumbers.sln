@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32728.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LostNumbers", "LostNumbers.csproj", "{D00D0EAA-FC50-4458-BB5C-71540F782E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLostNumbers", "..\TestLostNumbers\TestLostNumbers.csproj", "{8E9D7E73-34EC-4D1D-A5F5-278A0D4BD802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00D0EAA-FC50-4458-BB5C-71540F782E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00D0EAA-FC50-4458-BB5C-71540F782E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00D0EAA-FC50-4458-BB5C-71540F782E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00D0EAA-FC50-4458-BB5C-71540F782E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9D7E73-34EC-4D1D-A5F5-278A0D4BD802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9D7E73-34EC-4D1D-A5F5-278A0D4BD802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9D7E73-34EC-4D1D-A5F5-278A0D4BD802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9D7E73-34EC-4D1D-A5F5-278A0D4BD802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4697122-A0C4-4C1F-8E56-4265618790A6}
+	EndGlobalSection
+EndGlobal

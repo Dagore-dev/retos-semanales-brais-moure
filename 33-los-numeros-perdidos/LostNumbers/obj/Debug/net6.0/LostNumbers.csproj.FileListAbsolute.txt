@@ -1,0 +1,15 @@
+D:\Repositorios\LostNumbers\bin\Debug\net6.0\LostNumbers.exe
+D:\Repositorios\LostNumbers\bin\Debug\net6.0\LostNumbers.deps.json
+D:\Repositorios\LostNumbers\bin\Debug\net6.0\LostNumbers.runtimeconfig.json
+D:\Repositorios\LostNumbers\bin\Debug\net6.0\LostNumbers.dll
+D:\Repositorios\LostNumbers\bin\Debug\net6.0\LostNumbers.pdb
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\LostNumbers.csproj.AssemblyReference.cache
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\LostNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\LostNumbers.AssemblyInfoInputs.cache
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\LostNumbers.AssemblyInfo.cs
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\LostNumbers.csproj.CoreCompileInputs.cache
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\LostNumbers.dll
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\refint\LostNumbers.dll
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\LostNumbers.pdb
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\LostNumbers.genruntimeconfig.cache
+D:\Repositorios\LostNumbers\obj\Debug\net6.0\ref\LostNumbers.dll
